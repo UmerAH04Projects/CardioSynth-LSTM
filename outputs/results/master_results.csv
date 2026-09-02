@@ -1,0 +1,4 @@
+Model Approach,Reconstruction MSE,DTW Distance,Classification Accuracy (Imbalanced),Classification Accuracy (GAN Augmented),GitHub Repository Hash
+Standard Simple RNN,,57.08926448132843,0.9352911896465903,0.9397710303633648,TBD
+LSTM-Autoencoder,0.2498994767665863,,,,TBD
+Hybrid TimeGAN + LSTM Classifier,,57.08926448132843,0.9522150323544052,0.9661523145843703,TBD
