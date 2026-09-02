@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Google Colab / local files
+.DS_Store
+*.tmp
+*.log
+
+# Raw MIT-BIH data
+data/raw/
+
+# Python cache
+.pytest_cache/
